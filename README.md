@@ -1,0 +1,2 @@
+# SerialzableAndParcelableDemo
+序列化的几种方式
